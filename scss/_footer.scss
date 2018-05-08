@@ -5,6 +5,11 @@
   color: $white;
 }
 
+.btn-outline-light {
+  color: $white;
+  border-color: $white;
+}
+
 .copyright {
   background-color: darken($secondary, 10%);
 }
